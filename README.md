@@ -16,7 +16,7 @@
 <br />
 
 ### About Me 🚀
-🌱 On the way of learning Advanced Machine Learning & Data Scienc. </br>
+🌱 On the way of learning Advanced Machine Learning & Data Science. </br>
 🎓 I’m an Open-Source enthusiast & a Masters student pursuing my degree in Big Data Analytics at San Diego State University. </br>
 👨‍💻  I am passionate about Natural Language Processing, Data Science Machine Learning, DevOps & I enjoy learning new things. </br>
 
